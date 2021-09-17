@@ -1,8 +1,8 @@
-Here are all the coding and bq questions I collect for the interview with tiktok in May, 2020.
-You can also check with the answers I wrote in CSDN, here is my csdn account:https://blog.csdn.net/Kravchenko?spm=1000.2115.3001.5343
+**Here are all the coding and bq questions I collect for the interview with tiktok in May, 2020.**
+
+*You can also check with the answers I wrote in CSDN : https://blog.csdn.net/Kravchenko?spm=1000.2115.3001.5343*
 
 # 字节后端面经汇总
-@[TOC](字节跳动后端开发面经汇总（Python） )
 
 # 一. 计算机网络
 ## ①计算机网络模型
